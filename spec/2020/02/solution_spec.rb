@@ -16,13 +16,13 @@ RSpec.describe 'Day 2: Password Philosophy' do
   end
 
   describe 'Part One' do
-    it 'when two entries sum 2020' do
+    it 'when validating password' do
       expect(solution.part_one).to eq(2)
     end
   end
 
   describe 'Part Two' do
-    it 'when three entries that sum 2020' do
+    it 'when validating password' do
       expect(solution.part_two).to eq(1)
     end
   end

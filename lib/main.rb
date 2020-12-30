@@ -2,6 +2,7 @@
 
 require_relative '2020/01/solution'
 require_relative '2020/02/solution'
+require_relative '2020/03/solution'
 
 YEARS = %w[2020].freeze
 
