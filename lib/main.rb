@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative '2020/01/solution'
+require_relative '2020/02/solution'
 
 YEARS = %w[2020].freeze
 
